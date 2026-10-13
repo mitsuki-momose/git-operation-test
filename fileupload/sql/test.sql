@@ -2,4 +2,3 @@ SELECT CURRENT_VERSION();
 
 select current_date();
 
-DESC INTEGRATION GITHUB_GIT_API;
